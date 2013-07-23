@@ -1,0 +1,10 @@
+{
+	"name": "Bateria",
+	"description":"Probando la Webapi",
+	"launch_path": "/index.html",
+	"developer": {
+		"name": "FoxOS Dev",
+		"url": "http://foxosdev.es"
+	},
+	"default locale": "es"
+}
